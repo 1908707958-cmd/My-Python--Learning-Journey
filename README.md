@@ -87,7 +87,6 @@ cd My-Python-Learning-Journey
 python3 bmi_calculator.py
 python3 score_report.py
 ```
-safari-web-extension://EC2DBA92-CF2D-4508-B0B2-B8BF693D961E/assets/icon.png
 两个程序都不需要手动输入，直接运行即可看到结果。
 
 ## 学习心得与规划
